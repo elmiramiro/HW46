@@ -1,0 +1,26 @@
+{
+    "books": [
+        {
+            "book_id": "b1",
+            "title": "War and Peace",
+            "author": "Lev Tolstoy"
+        },
+        {
+            "book_id": "b2",
+            "title": "Crime and Punishment",
+            "author": "F. Dostoevsky"
+        }
+    ],
+    "readers": [
+        {
+            "reader_id": "r1",
+            "name": "Ivan I."
+        }
+    ],
+    "librarians": [
+        {
+            "librarian_id": "l1",
+            "name": "Anna Petrova"
+        }
+    ]
+}
